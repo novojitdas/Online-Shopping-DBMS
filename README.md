@@ -12,3 +12,4 @@ Gulistan Online Shop (An Online Shopping DBMS)
 1. Paste the all folder named 'gos' into htdocs dir (xampp) 
 2. use your browser then type "localhost/gos"
 
+[WATCH THE DEMO](https://novojitdas.github.io/Online-Shopping-DBMS/)
